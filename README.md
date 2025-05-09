@@ -1,10 +1,10 @@
 
+https://github.com/user-attachments/assets/483d9bbc-c27e-41b9-ba1b-6e85a2109616
 
-https://github.com/user-attachments/assets/5b877f33-171b-4c37-b449-a309586966f9
 
- # Trial of The Spear - [Repository](https://github.com/JohnSchrullLopez/TrialOfTheSpear)
- An arena shooter inspired by Boomerang X where I attempted to really refine a satisfying movement and combat system.
- # Datamoshing Effect - [Repository](https://github.com/JohnSchrullLopez/DataMosh)
- A real-time data moshing effect in Unity and a short Ghostrunner-inspired game to go along with it.
- # OpenGL Physarum Simulation - [Repository](https://github.com/JohnSLopez/SlimeSim)
- A Compute Shader Physarum simulation that I implemented in my attempts to learn OpenGL.
+ # Paint Sim (UE5) - [Repository](https://github.com/JohnSchrullLopez/PaintSim)
+ A Powerwash Simulator-inspired game where you paint textures onto your environment.
+ # Datamoshing Effect (Unity) - [Repository](https://github.com/JohnSchrullLopez/DataMosh)
+ A real-time data moshing effect in Unity which I implemented as a mechanic in a short Ghostrunner-inspired game.
+ # Physarum Simulation (C++/OpenGL) - [Repository](https://github.com/JohnSLopez/SlimeSim)
+ A Compute Shader Physarum simulation that I implemented while learning OpenGL.
