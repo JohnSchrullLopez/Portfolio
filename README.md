@@ -1,6 +1,4 @@
-
-https://github.com/user-attachments/assets/3153c3bf-745d-4af9-8c1d-e82ba8abcad3
-
+https://github.com/user-attachments/assets/df98704a-483f-4249-b193-3536cbc53892
 
  # Paint Sim (UE5) - [Repository](https://github.com/JohnSchrullLopez/PaintSim)
  A Powerwash Simulator-inspired game where you paint textures onto your environment.
