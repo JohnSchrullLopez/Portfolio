@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/483d9bbc-c27e-41b9-ba1b-6e85a2109616
+https://github.com/user-attachments/assets/3153c3bf-745d-4af9-8c1d-e82ba8abcad3
 
 
  # Paint Sim (UE5) - [Repository](https://github.com/JohnSchrullLopez/PaintSim)
